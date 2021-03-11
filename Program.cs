@@ -18,10 +18,11 @@ namespace Week2Task4
 
             sum = numberOne + numberTwo;
 
+            int a = 50;
+
             if(sum > 10){
 
                 Console.WriteLine("Sum of numbers is greater than 10");
-
             }else{
 
                 Console.WriteLine("Sum of numbers is less than 10");
