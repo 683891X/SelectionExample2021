@@ -1,0 +1,16 @@
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.exe
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.deps.json
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.runtimeconfig.json
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.runtimeconfig.dev.json
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.dll
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\ref\Week2Task4.dll
+C:\School\Programming\Week2Task4\bin\Debug\net5.0\Week2Task4.pdb
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.csprojAssemblyReference.cache
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.AssemblyInfoInputs.cache
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.AssemblyInfo.cs
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.csproj.CoreCompileInputs.cache
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.dll
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\ref\Week2Task4.dll
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.pdb
+C:\School\Programming\Week2Task4\obj\Debug\net5.0\Week2Task4.genruntimeconfig.cache
